@@ -67,7 +67,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.67071.config" />
     <Content Include="sitecore\shell\Override\UpdateContactDetails.xaml.xml" />
   </ItemGroup>
   <ItemGroup>
